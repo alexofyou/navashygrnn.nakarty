@@ -1,0 +1,60 @@
+[
+    
+    
+ 
+ {
+  
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+      "text": "0,01% на первый",
+     "percent": "0%",
+	"sum_one": "до 10000 ₴",
+	"sum_max": "30 000 ₴",
+     "url": "https://google.com" }
+    
+    
+,
+
+
+ {
+  
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+   "text": "0% на первый",
+     "percent": "0%",
+	"sum_one": "до 10000 ₴",
+	"sum_max": "30 000 ₴",
+     "url": "https://www.homecredit.ru"}
+    
+ ,
+ {
+  
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+      "text": "1% на первый",
+     "percent": "1%",
+	"sum_one": "до 10000 ₴",
+	"sum_max": "30 000 ₴",
+     "url": "https://google.com"
+       }
+    
+    
+,
+
+
+ {
+  
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+    "text": "0% на первый",
+     "percent": "0%",
+	"sum_one": "до 10000 ₴",
+"sum_max": "20 000 ₴",
+     "url": "https://www.homecredit.ru" }
+    
+
+
+
+
+ 
+   
+   
+  
+  
+]
