@@ -1,70 +1,328 @@
+
+
+
+
+
 [
-    
-     {
+
+ {
        
         "age": "от 21 лет",
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
-        "sum_one": "до 30 000 ₽",
+        "sum_one": "до 30000 ₽",
         "percent": "0%",
-	     "sum_max": "Быстрейший займ",
 "text": "Быстрейший займ",
-        "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=karrd"
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=olld"
     } ,
+    
+
+
+    {
+      
+        "age": "от 18 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",
+        "sum_one": "до 15000 ₽",
+  "percent": "0%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/fac9aa98231e5d562f152a1905492616?aff_sub1=olld"
+    },
+
+{
+       
+        "age": "от 18 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
+        "sum_one": "до 15000 ₽",
+        "percent": "1%",
+   "text": "Авторешение",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=olld"
+    },
+
+
+
+{
+        
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
+        "sum_one": "до 80000 ₽",
+         "percent": "0%",
+   "text": "Надежный займ",
+  "sum_max": "",
+        "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=olld"
+    },
+
+
+
+       
+    {
+        
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivgo.png",
+        "sum_one": "до 80000 ₽",
+          "percent": "1%",
+   "text": "Только паспорт",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/f912b3dd05868b3855c1bebb49a3d216?aff_sub1=olld"
+    },
+
+
+
 
  
- {
-  
-     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-      "text": "0,01% на первый",
-     "percent": "0%",
-	"sum_one": "до 10000 ₴",
-	"sum_max": "30 000 ₴",
-     "url": "https://google.com" }
-    
-    
-,
+    {
+       
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+        "sum_one": "до 80000 ₽",
+         "percent": "0%",
+  "text": "Авторешение",
+   "sum_max": "",
+        "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=olld"
+    },
 
 
- {
-  
-     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-   "text": "0% на первый",
-     "percent": "0%",
-	"sum_one": "до 10000 ₴",
-	"sum_max": "30 000 ₴",
-     "url": "https://www.homecredit.ru"}
-    
- ,
- {
-  
-     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-      "text": "1% на первый",
-     "percent": "1%",
-	"sum_one": "до 10000 ₴",
-	"sum_max": "30 000 ₴",
-     "url": "https://google.com"
-       }
-    
-    
-,
+
+    {
+       
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/robotmoney.png",
+        "sum_one": "до 50000 ₽",
+          "percent": "1%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/3e05999823bdd9e1e92a9f21ea1c6185?aff_sub1=olld"
+    },
 
 
+
+
+
+     
+
  {
-  
-     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-    "text": "0% на первый",
-     "percent": "0%",
-	"sum_one": "до 10000 ₴",
-"sum_max": "20 000 ₴",
-     "url": "https://www.homecredit.ru" }
+      
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",
+        "sum_one": "до 15000 ₽",
+            "percent": "0%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/79732fa9329cbdd4cd82b5730dd19267?aff_sub1=olld"
+    },
+
+
+
+
+
+   
+   
     
+    
+    
+   
+    {
+     
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/otlichnye.png",
+        "sum_one": "до 80000 ₽",
+          "percent": "0%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/e59312a43dd540a65c344ff36a0180e8?aff_sub1=olld"
+    },
+
+
+
+    {
+     
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
+        "sum_one": "до 70000 ₽",
+         "percent": "0%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_solld=kre"
+    },
+
 
 
 
 
  
+    {
+        
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ffs.png",
+         "sum_one": "до 30000 ₽",
+           "percent": "1%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/d5c99c22c28ca9bf2dbfc890836a1bce?aff_solld=kre"
+    },
+
+
+  
+     
+    {
+       
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
+          "sum_one": "до 99000 ₽",
+           "percent": "0%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_solld=kre"
+    },
+
+
+
+ 
+    {
+    
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+        "sum_one": "до 15000 ₽",
+          "percent": "1%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_solld=kre"
+    },
+
+
+    
+    {
+     
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
+        "sum_one": "до 50000 ₽",
+            "percent": "1%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_solld=kre"
+    }
+  ,
+
+
+
+
+    {
+       
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bbel.jpeg",
+        "sum_one": "до 30000 ₽",
+            "percent": "1%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/4fea559ce93e906b83463a03aedc7aef?aff_solld=kre"
+    }
+      ,
+
+
+
+
+
+    
+    
+    
+    
    
    
+   
+    {
+      
+        "age": "от 18 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/cash-u.png",
+        "sum_one": "до 30000 ₽",
+           "percent": "0%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/c2c4f60d5bf4194cec441f4e3ae0cbca?aff_solld=kre"
+    },
+
+
   
-  
+    {
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/paay.png",
+         "sum_one": "до 15000 ₽",
+             "percent": "1%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/8fe41bc92c683b08edad6a507e2b6ad3?aff_solld=kre"
+    },
+
+
+
+    
+    
+     
+    {
+    
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/jjj.png",
+         "sum_one": "до 60000 ₽",
+            "percent": "1%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/efa8979809fe77425497af35b3b2ac07?aff_solld=kre"
+    },
+ 
+    {
+      
+        "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/knz.png",
+        "sum_one": "до 70000 ₽",
+           "percent": "1%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/af76c49b9d77d17741b94066df4f71e9?aff_solld=kre"
+    },
+    
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+
+    
+   
+    {
+       
+        "age": "от 18 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/glf.png",
+           "sum_one": "до 30000 ₽",
+        "percent": "0%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/3a61663779667696d016a1e22f28bee7?aolldsub1=kre"
+    }
+     
+     
+    
+     
+     
+     
+      ,
+    {
+                "age": "от 21 лет",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zzg.jpg",
+        "sum_one": "до 15000 ₽",
+        "percent": "1%",
+   "text": "",
+  "sum_max": "",
+        "url": "https://trkleads.ru/click/a034b5f606c4f6b439369ec296109848?aolldsub1=kre"
+    }
+     
+     
+       
+    
+    
+    
 ]
